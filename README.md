@@ -1,6 +1,8 @@
 # python_oop_household
 A demo of object oriented code in python (assignment).
 
+[Run it here at onlinegdb!](https://onlinegdb.com/rJPL8C0iH "Python OOP Household")
+
 Essentially this demonstrates is-a and has-a (composition) inheritance using python.
 
     Adult added!
